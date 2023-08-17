@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+pandas
+javabridge
+python-weka-wrapper3
